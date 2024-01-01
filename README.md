@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 20px;">
+<p align="center" style="font-size: 40px;">
   <strong>Skilled 🛢️Engineer on Data Analytics and Visualization 👋</strong>
 </p>
 
