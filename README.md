@@ -3,6 +3,8 @@
 # !Skilled Petroleum Eng. on Data Analytics and Reporting  👋
 ### Freelance full-stack iOS & Android engineer
 
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
+### Freelance full-stack iOS & Android engineer
 
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
