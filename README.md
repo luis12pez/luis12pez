@@ -1,6 +1,4 @@
-<p align="center" style="font-size: 40px;">
-  <strong>Skilled 🛢️Engineer on Data Analytics and Visualization 👋</strong>
-</p>
+## Skilled 🛢️Engineer on Data Analytics and Visualization 👋
 
 ![Alternate Text](https://raw.githubusercontent.com/luis12pez/luis12pez/master/1stbanner.png)
 
