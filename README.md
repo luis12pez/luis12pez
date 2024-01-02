@@ -1,9 +1,13 @@
-## Skilled 🛢️Engineer on Data Analytics and Visualization 👋
+## Skilled 🛢️Engineer on Data Analytics and Visualization 
 
 ![Alternate Text](https://raw.githubusercontent.com/luis12pez/luis12pez/master/1stbanner.png)
 
-Petroleum Engineer (B Sc. and M Sc.) with over 5 years of experience in Energy industry, focused on the ⛽ Oil & Gas sector and 🌏 Geothermal exploitation. I have developed expertise in complete asset management 👨🏽‍💼, from exploratory campaings to Production and abandonment stages from the reservoir and well performance point of view .  
-Skilled on day to day wells and reservoir survelliance 👁️. Analyzing fluid (🛢️ & 💧) production data, wells mechanical performance and reseroirs behaviour & petrophysical porperties. 
+👋 Hi there!!!👋  I'm Petroleum Engineer (B Sc. and M Sc.) rocking over 5 years of experience in Energy scene, particulary shining in the ⛽ Oil & Gas and 🌏 Geothermal game. I'm your go-to guy for full-on asset wizardry 👨🏽‍💼, involving exploratory campaings to Production and abandonment stages, all from the perspective og reservoir and well performance.  
+
+Skilled on day-to-day wells and reservoir survelliance 👁️. Analyzing fluid (🛢️ & 💧) production data, well's mechanical performances and reseroir behaviour & petrophysical porperties. 
+
+I have become highly proficient in data modelling no matter its complexity. Involved in developing 🔢numerical and 🔬analytical modelling to unravel the stories hidden within the data across different⏳time and space scales, aiming at evaluate current develompent strategies or breaking down 🧑🏽‍🔬engineering scenarios.
+
 
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
