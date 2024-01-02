@@ -2,11 +2,12 @@
 
 ![Alternate Text](https://raw.githubusercontent.com/luis12pez/luis12pez/master/1stbanner.png)
 
-👋 Hi there!!!👋  I'm Petroleum Engineer (B Sc. and M Sc.) rocking over 5 years of experience in Energy scene, particulary shining in the ⛽ Oil & Gas and 🌏 Geothermal game. I'm your go-to guy for full-on asset wizardry 👨🏽‍💼, involving exploratory campaings to Production and abandonment stages, all from the perspective og reservoir and well performance.  
+👋 Hi there!!!👋  I'm Petroleum Engineer (B Sc. and M Sc.) rocking over 5 years of experience in Energy scene, particulary shining in the ⛽ Oil & Gas and 🌏 Geothermal game. I'm your go-to guy for full-on asset wizardry 👨🏽‍💼, involving exploratory campaings to Production and abandonment stages, all from the perspective of reservoir and well performance.  
 
-Skilled on day-to-day wells and reservoir survelliance 👁️. Analyzing fluid (🛢️ & 💧) production data, well's mechanical performances and reseroir behaviour & petrophysical porperties. 
+Skilled on day-to-day 👁️survelliance of wells and reservoirs. Analyzing fluid (🛢️ & 💧) production data and its patterns, well's mechanical performances and reservoir behaviour & petrophysical porperties. :atom:
 
-I have become highly proficient in data modelling no matter its complexity. Involved in developing 🔢numerical and 🔬analytical modelling to unravel the stories hidden within the data across different⏳time and space scales, aiming at evaluate current develompent strategies or breaking down 🧑🏽‍🔬engineering scenarios.
+I have become highly proficient in data modelling no matter its complexity. Involved in developing 🔢numerical and 🔬analytical modelling to unravel the stories hidden within the data across different ⏳time and space scales, aiming at evaluate current develompent strategies or breaking down 🧑🏽‍🔬engineering scenarios.
+
 
 
 <!--
