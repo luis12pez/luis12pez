@@ -1,4 +1,4 @@
-  ## Skilled 🛢️Engineer on Data Analytics and Visualization 
+# Skilled 🛢️Engineer on Data Analytics and Visualization 
 
 ![Alternate Text](https://raw.githubusercontent.com/luis12pez/luis12pez/master/1stbanner.png)
 
@@ -12,9 +12,8 @@ I have become highly proficient in data modelling no matter its complexity. Invo
 
 Expertise in docummenting and 📝reporting engineering and data analysis ⚒️workflows. Whether it's for stakeholders and senior leadership in a corporate environment or for academic research community.
 
-<p align="center" style="font-size: 30px;">
-👉👉👉 Transitioning to Data/Business Analysis 🌐 world!!! 👈👈👈
-</p>
+#👉👉👉 Transitioning to Data/Business Analysis 🌐 world!!! 👈👈👈
+
 
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
