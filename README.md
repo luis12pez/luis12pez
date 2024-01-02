@@ -10,7 +10,11 @@ Skilled on day-to-day 👁️survelliance of wells and reservoirs. Analyzing flu
 
 I have become highly proficient in data modelling no matter its complexity. Involved in developing 🔢numerical and 🔬analytical modelling to 🔓unravel the stories hidden within the data across different ⏳time and space scales, 🎯aiming at evaluate current develompent strategies or breaking down 🧑🏽‍🔬engineering scenarios.
 
-Expertise in docummenting and reporting engineering and data analysis ⚒️workflows. Whether it's for stakeholders and senior leadership in a corporate environment or for academic research community.
+Expertise in docummenting and 📝reporting engineering and data analysis ⚒️workflows. Whether it's for stakeholders and senior leadership in a corporate environment or for academic research community.
+
+<p align="center" style="font-size: 20px;">
+👉👉👉 Transitioning to Data/Business Analysis 🌐 world!!! 👈👈👈
+</p>
 
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
