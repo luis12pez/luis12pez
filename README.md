@@ -1,6 +1,4 @@
-<p align="center">
   ## Skilled 🛢️Engineer on Data Analytics and Visualization 
-</p>
 
 ![Alternate Text](https://raw.githubusercontent.com/luis12pez/luis12pez/master/1stbanner.png)
 
@@ -14,7 +12,7 @@ I have become highly proficient in data modelling no matter its complexity. Invo
 
 Expertise in docummenting and 📝reporting engineering and data analysis ⚒️workflows. Whether it's for stakeholders and senior leadership in a corporate environment or for academic research community.
 
-<p align="center" style="font-size: 20px;">
+<p align="center" style="font-size: 30px;">
 👉👉👉 Transitioning to Data/Business Analysis 🌐 world!!! 👈👈👈
 </p>
 
