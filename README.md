@@ -12,7 +12,7 @@ I have become highly proficient in data modelling no matter its complexity. Invo
 
 Expertise in docummenting and 📝reporting engineering and data analysis ⚒️workflows. Whether it's for stakeholders and senior leadership in a corporate environment or for academic research community.
 
-## Transitioning to Data/Business Analysis 🌐 world!!! 👈👈👈
+## Transitioning to 📅Data/🧑🏽‍💼Business Analysis world!!!🌐 👈👈👈
 
 
 <!--
