@@ -4,7 +4,7 @@
 
 👋 Hi there!!!👋  
 
-I'm Petroleum Engineer (B Sc. and M Sc.) rocking over 5 years of experience in Energy scene, particulary shining in the ⛽ Oil & Gas and 🌏 Geothermal game. I'm your go-to guy for full-on asset wizardry 👨🏽‍💼, involving exploratory campaings to Production and abandonment stages, all from the perspective of reservoir and well performance.  
+I'm Petroleum Engineer (B Sc. and M Sc.) rocking over 5 years of experience in Energy scene, particulary shining in the ⛽ Oil & Gas and 🌏 Geothermal game. I'm your go-to guy for full-on asset wizardry🧙🏽, involving exploratory campaings to Production and abandonment stages, all from the perspective of reservoir and well performance.  
 
 Skilled on day-to-day 👁️survelliance of wells and reservoirs. Analyzing fluids (🛢️ & 💧) production data and their trends, well's mechanical performances and reservoir behaviour & petrophysical porperties. 
 
@@ -12,7 +12,11 @@ I have become highly proficient in data modelling no matter its complexity. Invo
 
 Expertise in docummenting and 📝reporting engineering and data analysis ⚒️workflows. Whether it's for stakeholders and senior leadership in a corporate environment or for academic research community.
 
-## Transitioning to 📅Data/🧑🏽‍💼Business Analysis world!!!🌐 👈👈👈
+### Transitioning to 📅Data/🧑🏽‍💼Business Analysis world!!!🌐 👈👈👈
+
+Embarking on a journey toward Data/Business analytic territories, I'm constantly fueled by improving in programming languages (🐍Python - MS Excel VBA and much more in the future🔮) and mastering BI tools (🖼️Tableau, just for now😁). I have translated these skills to perform in 📺TV 👨‍👩‍👧‍👦family entertainment industry and driving 👷🏽‍♂️🏬construction development projects. From database management to data processing/modeling to evaluate 🛒business strategies and extract data-driven insights to 💁🏽‍♂️support decision-making.
+
+
 
 
 <!--
