@@ -26,7 +26,7 @@ Embarking on a journey toward Data/Business analytic territories, I'm constantly
 [![Google Suite](https://img.shields.io/badge/Google_Suite-yellow?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
 [![VS Code](https://img.shields.io/badge/VS_Code-00008B?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 
-And MUCH MORE😁... Ranging from traditional platforms, such as [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-F08080?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=101010&logoWidth=20&logoHeight=20)]()  to specialized ones for the ⚡Energy industry💥
+And MUCH MORE😁... Ranging from traditional platforms, such as [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-F08080?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=101010&logoWidth=10&logoHeight=10)]()  to specialized ones for the ⚡Energy industry💥
 
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
