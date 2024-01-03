@@ -2,9 +2,9 @@
 
 # Project Portafolio
 
-### 📊 [Data Visualization | Tableau](https://github.com/luis12pez/Tableau-viz) - Exploring Data visualization with Tableau!
+### 📊 [Data Visualization | Tableau](https://github.com/luis12pez/Tableau-viz) - Exploring Data visualization with 🖼️Tableau!
 
-### 📊 [SQL | Python](https://github.com/luis12pez/Tableau-viz) - Extraction of Data-driven insights!
+### 🧱🐍 [SQL | Python](https://github.com/luis12pez/Tableau-viz) - Extraction of Data-driven insights!
 
 # Skilled 🛢️Engineer on Data Analytics and Visualization 
 
