@@ -23,7 +23,7 @@ Embarking on a journey toward Data/Business analytic territories, I'm constantly
 [![Tableau](https://img.shields.io/badge/Tableau-ADD8E6?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
 [![Excel](https://img.shields.io/badge/MS_Excel-228B22?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
 [![MS Access](https://img.shields.io/badge/MS_Access-8B0000?style=for-the-badge&logo=microsoft-access&logoColor=white&labelColor=101010)]()
-[![Google Suite](https://img.shields.io/badge/Google_Suite-yellow?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
+[![Google Suite](https://img.shields.io/badge/Google_Suite-FFFACD?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
 [![VS Code](https://img.shields.io/badge/VS_Code-00008B?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 
 And MUCH MORE😁... Ranging from traditional platforms, such as [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-FFD700?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=101010&logoWidth=10&logoHeight=10)]()  to specialized ones for the ⚡Energy industry💥
