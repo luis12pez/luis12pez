@@ -1,6 +1,6 @@
 ![Alternate Text](https://raw.githubusercontent.com/luis12pez/luis12pez/master/1stbanner.png)
 
-# Project Portafolio
+# Portafolio Showcase
 
 ### 📊 [Data Visualization | Tableau](https://github.com/luis12pez/Tableau-viz) - Exploring Data visualization with 🖼️Tableau!
 
