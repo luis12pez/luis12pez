@@ -2,6 +2,12 @@
 
 ![Alternate Text](https://raw.githubusercontent.com/luis12pez/luis12pez/master/1stbanner.png)
 
+# Project Portafolio
+
+[Data Visualization | Tableau](https://github.com/luis12pez/Tableau-viz)
+
+
+
 👋 Hi there!!!👋  
 
 I'm Petroleum Engineer (B Sc. and M Sc.) rocking over 5 years of experience in Energy scene, particulary shining in the ⛽ Oil & Gas and 🌏 Geothermal game. I'm your go-to guy for full-on asset wizardry🧙🏽, involving exploratory campaings to Production and abandonment stages, all from the perspective of reservoir and well performance.  
