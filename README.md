@@ -20,10 +20,13 @@ Embarking on a journey toward Data/Business analytic territories, I'm constantly
 
 [![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
 [![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&labelColor=101010)]()
-[![Excel](https://img.shields.io/badge/MS_Excel-Dark_Green?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
+[![Excel](https://img.shields.io/badge/MS_Excel-Dark_Green-006400?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
 [![MS Access](https://img.shields.io/badge/MS_Access-purple?style=for-the-badge&logo=microsoft-access&logoColor=white&labelColor=101010)]()
+[![Google Suite](https://img.shields.io/badge/Google_Suite-yellow?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
+[![VS Code](https://img.shields.io/badge/VS_Code-Dark_Blue?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
+
+
 
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
