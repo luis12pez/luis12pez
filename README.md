@@ -1,4 +1,4 @@
-![Alternate Text](https://raw.githubusercontent.com/luis12pez/luis12pez/master/1stbanner.png)
+![Banner](https://raw.githubusercontent.com/luis12pez/luis12pez/master/1stbanner.png)
 
 # Portafolio Showcase
 
@@ -18,6 +18,11 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-00008B?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 
 And MUCH MORE😁... Ranging from traditional platforms, such as [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-FFD700?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=101010&logoWidth=10&logoHeight=10)]()  to specialized ones for the ⚡Energy industry💥
+
+### 🔥Skill Arsenal🔦 ###
+
+![Skill plot](https://raw.githubusercontent.com/luis12pez/luis12pez/master/skills.jpeg
+)
 
 ## Skilled 🛢️Engineer on Data Analytics and Visualization 
 
