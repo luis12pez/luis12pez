@@ -19,7 +19,7 @@ Embarking on a journey toward Data/Business analytic territories, I'm constantly
 ### 🧑🏽‍💻Tech Toolbox🔨📦 ###
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Tableau](https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Tableau](https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
