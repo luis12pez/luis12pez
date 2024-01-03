@@ -6,7 +6,7 @@
 
 ### 🧱🐍 [SQL | Python](https://github.com/luis12pez/Tableau-viz) - Extraction of Data-driven insights!
 
-# Skilled 🛢️Engineer on Data Analytics and Visualization 
+## Skilled 🛢️Engineer on Data Analytics and Visualization 
 
 👋 Hi there!!!👋  
 
