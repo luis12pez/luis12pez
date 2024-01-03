@@ -21,9 +21,7 @@ And MUCH MORE😁... Ranging from traditional platforms, such as [![Microsoft Of
 
 ### 🔥Skill Arsenal🔦 ###
 
-<center>
 ![Skill plot](https://raw.githubusercontent.com/luis12pez/luis12pez/master/skills.png)
-</center>
 
 ## Skilled 🛢️Engineer on Data Analytics and Visualization 
 
