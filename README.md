@@ -11,7 +11,7 @@
 [![SQL](https://img.shields.io/badge/SQL-DC143C?style=for-the-badge&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-3CB371?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Tableau](https://img.shields.io/badge/Tableau-ADD8E6?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
 [![Excel](https://img.shields.io/badge/MS_Excel-228B22?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
 [![MS Access](https://img.shields.io/badge/MS_Access-8B0000?style=for-the-badge&logo=microsoft-access&logoColor=white&labelColor=101010)]()
 [![Google Suite](https://img.shields.io/badge/Google_Suite-FFFACD?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
