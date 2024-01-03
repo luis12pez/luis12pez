@@ -1,11 +1,12 @@
-# Skilled 🛢️Engineer on Data Analytics and Visualization 
-
 ![Alternate Text](https://raw.githubusercontent.com/luis12pez/luis12pez/master/1stbanner.png)
 
 # Project Portafolio
 
 ### 📊 [Data Visualization | Tableau](https://github.com/luis12pez/Tableau-viz) - Exploring Data visualization with Tableau!
+
 ### 📊 [SQL | Python](https://github.com/luis12pez/Tableau-viz) - Extraction of Data-driven insights!
+
+# Skilled 🛢️Engineer on Data Analytics and Visualization 
 
 👋 Hi there!!!👋  
 
