@@ -18,15 +18,15 @@ Embarking on a journey toward Data/Business analytic territories, I'm constantly
 
 ### 🧑🏽‍💻Tech Toolbox🔨📦 ###
 
+[![SQL](https://img.shields.io/badge/SQL-8B0000?style=for-the-badge&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-3CB371?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Tableau](https://img.shields.io/badge/Tableau-ADD8E6?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&labelColor=101010)]()
 [![Excel](https://img.shields.io/badge/MS_Excel-228B22?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)]()
 [![MS Access](https://img.shields.io/badge/MS_Access-purple?style=for-the-badge&logo=microsoft-access&logoColor=white&labelColor=101010)]()
 [![Google Suite](https://img.shields.io/badge/Google_Suite-yellow?style=for-the-badge&logo=google&logoColor=white&labelColor=101010)]()
 [![VS Code](https://img.shields.io/badge/VS_Code-00008B?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 
-
+And much more... Ranging from traditional platforms (Such as [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-F08080?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=101010)]() to specialized ones for the ⚡Energy industry💥
 
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
