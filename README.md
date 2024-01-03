@@ -16,9 +16,10 @@ Expertise in docummenting and 📝reporting engineering and data analysis ⚒️
 
 Embarking on a journey toward Data/Business analytic territories, I'm constantly fueled by improving in programming languages (🐍Python - MS Excel VBA and much more in the future🔮) and mastering BI tools (🖼️Tableau, just for now😁). I have translated these skills to perform in 📺TV 👨‍👩‍👧‍👦family entertainment industry and driving 👷🏽‍♂️🏬construction development projects. From database management to data processing/modeling to evaluate 🛒business strategies and extract data-driven insights to 💁🏽‍♂️support decision-making.
 
+### 🧑🏽‍💻Tech Toolbox🔨📦 ###
 
-
-
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Tableau](https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
