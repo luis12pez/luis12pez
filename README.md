@@ -54,8 +54,8 @@ Conference Paper: Scale-Dependent Models for Modified Salinity Waterflooding –
 Master of Science in Petroleum Engineering - Politecnico di Torino, Italy
 Awarded with ToPolito Scholarship 2017/2019
 
-B Sc. Petroleum Eng. - WES accreditation # 5921320IMM – U. de América, Colombia
-Thesis: 
+Bachelor of Science Petroleum Engineering - Fundacion Universidad de América, Colombia
+
 
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
