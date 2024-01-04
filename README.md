@@ -39,6 +39,15 @@ Expertise in docummenting and 📝reporting engineering and data analysis ⚒️
 
 Embarking on a journey toward Data/Business analytic territories, I'm constantly fueled by improving in programming languages (🐍Python - MS Excel VBA and much more in the future🔮) and mastering BI tools (🖼️Tableau, just for now😁). I have translated these skills to perform in 📺TV 👨‍👩‍👧‍👦family entertainment industry and driving 👷🏽‍♂️🏬construction development projects. From database management to data processing/modeling to evaluate 🛒business strategies and extract data-driven insights to 💁🏽‍♂️support decision-making.
 
+### 🎒📃 Academic Papers ###
+I have been involved in the genration of academic paper related to describe the fluid flow in a porous media.
+
+I modeled extraction of heat by Getohermal Doublets in naturally fractured reservoirs 
+Conference Paper: Interplay of heat transport and fracture aperture in fractured reservoirs – 4th Naturally Fractured Reservoirs Workshop
+
+I created a conceptual model to analyze the impacta of mesh size in the simulation of water injection for oil recovery.
+Conference Paper: Scale-Dependent Models for Modified Salinity Waterflooding – 82nd EAGE Annual Conference & Exhibition, Netherlands
+
 <!--
 **luis12pez/luis12pez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
