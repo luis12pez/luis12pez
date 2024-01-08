@@ -53,7 +53,7 @@ Conference Paper: Scale-Dependent Models for Modified Salinity Waterflooding –
 
 Master of Science in Petroleum Engineering - Politecnico di Torino, Italy
 
-Awarded with ToPolito Scholarship 2017/2019
+      Awarded with ToPolito Scholarship 2017/2019
 
 Bachelor of Science Petroleum Engineering - Fundacion Universidad de América, Colombia
 
