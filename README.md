@@ -6,7 +6,7 @@
 
 ### 🧱🐍 [SQL | Python](https://github.com/luis12pez/SQL_Python) - Extraction of Data-driven insights👨🏽‍🏫!
 
-### 📰💻 [Academic Papers](https://github.com/luis12pez/academic_papers) - Extraction of Data-driven insights👨🏽‍🏫! 
+### 📰💻 [Academic Papers](https://github.com/luis12pez/academic_papers) - Publications 
 
 ### 🧑🏽‍💻Tech Toolbox🔨📦 ###
 
